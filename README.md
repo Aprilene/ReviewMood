@@ -26,6 +26,9 @@ The backend communicates with the machine learning module implemented using the 
 - Hosting Platform: InfinityFree
 - https://reviewmood.free.nf/ReviewMood/public/analyze.php
 
+# Website zip file
+- https://drive.google.com/file/d/1x45NLeaUOP3fdegVKODWpzgCq0oLZEhX/view
+
 # Video Presentation Link
 - https://youtu.be/FY_be6Y-qg8?si=YlnQgWZLAJxDLCg8
 
